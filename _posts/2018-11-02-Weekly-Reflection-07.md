@@ -12,4 +12,7 @@ function test() {
 console.log("look ma`, no spaces");
 }
 ```
+function test() {
+console.log("look ma`, no spaces");
+}
 ```(circle 20 "solid" "blue")```

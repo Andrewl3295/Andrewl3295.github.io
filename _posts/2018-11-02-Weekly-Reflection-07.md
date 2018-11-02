@@ -9,7 +9,7 @@ This week we learned that the range of a circle is a image and that if we do a f
 
 ```javascript
 function test() {
-console.log(circle 20 "solid" "blue");
+console.log("look ma`, no spaces");
 }
 ```
 ```(circle 20 "solid" "blue")```

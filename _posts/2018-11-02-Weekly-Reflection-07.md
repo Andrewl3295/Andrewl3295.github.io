@@ -17,4 +17,4 @@ function test() {
 console.log(circle 20 "solid" "blue");
 }
 
-A big idea is that coding a circle might not be as simple as you think...
+A big idea is that coding a circle might not be as simple as you think, sure you just type in the function for a circle or anything for that matter, how does the computer know what a circle is? It takes in the information that you provided and using javascript, creates one, adding on, javascript is made up of more complex coding that allows it to run.

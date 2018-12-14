@@ -41,8 +41,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-code { 
-      font-size: 3em;
-    font-family:'Helvetica', 'Impact', 'Sans-Serif';
-}

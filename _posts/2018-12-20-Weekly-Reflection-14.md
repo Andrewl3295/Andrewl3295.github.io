@@ -45,7 +45,7 @@ flag-m
 
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
-The code I posted was my code for the Malaysia Flag, the beggining part was the definitions, of the Malyaisa Flag. Such as the colors, and width and height, as well as the stripes. After that is the simple shapes of the flag, this part contains the simple shapes, such as the rectangles. Next is creating the base of the flag, I used a rectangle, then used put images, to place images on top of each other to get the flag. Then the last part of the program, is that creation, and making ofthe stripes of the Malaysai Flag. 
+The code I posted was my code for the Malaysia Flag, the beggining part was the definitions, of the Malyaisa Flag. Such as the colors, and width and height, as well as the stripes, and colors of the flag. After that is the simple shapes of the flag, this part contains the simple shapes, such as the rectangles. Next is creating the base of the flag, I used a rectangle, then used put images, to place images on top of each other to get the flag. Then the last part of the program, is that creation, and making ofthe stripes of the Malaysai Flag. I came up with the numbers by finding a common number with the width and height. Then I did the greatest common factor of all the numbers to be able to scale, and got 1.
 
 ## Program code
 

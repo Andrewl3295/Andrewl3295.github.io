@@ -3,6 +3,7 @@ layout: post
 title: "Game Update"
 date: 2019-03-08
 ---
+https://www.wescheme.org/view?publicId=3ZWkQaPxZ3
 
 The title of the game is called Slime Game. The game is about you, a slime monster, going around and collecting slime balls, you lose points if you make contact with fire. The setting is a plain field out in the open. An example of a function in my game is the collide? function. 
 
